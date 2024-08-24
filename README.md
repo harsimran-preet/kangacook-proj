@@ -12,8 +12,8 @@ Backend (Django)
 
 The backend of the application is built with Django and leverages Django Rest Framework (DRF) to create RESTful API endpoints. These endpoints are used by the React frontend to display data in real time. The backend features:
 
-	•	/api/data: An endpoint that returns a list of items stored in the database.
-	•	/api/detail/: An endpoint that provides detailed information about a specific item, identified by its ID.
+	•	/api/ideas: An endpoint that returns a list of ideas stored in the database.
+	•	/api/interest: An endpoint that returns a list of names and contact info of people who are interested in the app stored in the database.
 
 Features
 
